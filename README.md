@@ -1,9 +1,11 @@
 # Undergraduate-work
 this repository contains
-  - the proposal paper+presentation
-  - the project data
-  - the project report
-  - the project presentaion
-  - the projet videos
-  - the project pictures
+  1. project proposal paper+presentation
+  2. project report
+  3. project presentaion
+  4. project source code files
+  5. project pictures
+  6. project data and
+  7. project demo videos 
+files
   
